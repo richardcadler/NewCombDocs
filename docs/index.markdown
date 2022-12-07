@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<h1>Index file with markdown suffix in docs folder</h1>
