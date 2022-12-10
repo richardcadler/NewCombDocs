@@ -1,8 +1,7 @@
 <nav>
-  <a href="/NewCombDocs/docs/" {% if page.url == "/index" %}style="color: green";{% endif %}>
-    Home
-  </a>
-  <a href="/NewCombDocs/docs/about" {% if page.url == "/about" %}style="color: green;"{% endif %}>
-    About
-  </a>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
 </nav>
