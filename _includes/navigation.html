@@ -1,4 +1,8 @@
 <nav>
-  <a href="/NewCombDocs/docs/">Home</a>
-  <a href="/NewCombDocs/docs/about">About</a>
+  <a href="/NewCombDocs/docs/" {% if page.url == "/" %}style="color: red;"{% endif %}>
+    Home
+  </a>
+  <a href="/NewCombDocs/docs/about.html" {% if page.url == "/about.html" %}style="color: red;"{% endif %}>
+    About
+  </a>
 </nav>
