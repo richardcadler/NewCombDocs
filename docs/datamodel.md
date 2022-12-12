@@ -1,6 +1,6 @@
 ---
 layout: default
-title: datamodel
+title: Data Model
 ---
 # Data Model page
 
