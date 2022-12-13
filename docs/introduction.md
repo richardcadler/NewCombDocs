@@ -25,7 +25,7 @@ The current version of Combine, called combine-docker, has simplified the instal
 * Part 2: Installation and Server Maintenance
 * Part 3: Command Line
 * Part 4: Background Tasks
-* Part 5: Date Model
+* Part 5: [Data Model](/datamodel)
 * Part 6: Configuration
 * Part 7: Running Jobs
 * Part 8: Harvesting Records
