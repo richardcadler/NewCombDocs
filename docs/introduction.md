@@ -1,5 +1,6 @@
 ---
-Name: Introduction
+layout: default
+title: Introduction
 ---
 
 ## Overview
