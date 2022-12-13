@@ -1,7 +1,7 @@
 
 ## Overview
 
-Combine is an application to facilitate the harvesting, transformation, analysis, and publishing of metadata records by Service Hubs for inclusion in the [Digital Public Library of America (DPLA)] (https://dp.la/). Installing and maintaining Combine requires the skills of a web administrator, but users of Combine will not need a technical background to work with metadata. 
+Combine is an application to facilitate the harvesting, transformation, analysis, and publishing of metadata records by Service Hubs for inclusion in the [Digital Public Library of America (DPLA)](https://dp.la/). Installing and maintaining Combine requires the skills of a web administrator, but users of Combine will not need a technical background to work with metadata. 
 
 The name “Combine”, pronounced /kämˌbīn/ with a long i, is a nod to the [combine harvester](https://en.wikipedia.org/wiki/Combine_harvester) used in farming for, “combining three separate harvesting operations - reaping, threshing, and winnowing - into a single process.” Instead of grains, we have metadata records! These metadata records may come in a variety of metadata formats, various states of transformation, and may or may not be valid in the context of a particular data model. Like the combine equipment used for farming, this application is designed to provide a single point of interaction for multiple steps along the way of harvesting, transforming, and analyzing metadata in preparation for inclusion in the DPLA.
 
@@ -35,7 +35,7 @@ The current version of Combine, called combine-docker, has simplified the instal
 
 Recent development work on Combine focused on updating and confirming its essential core functions. As of April 2022, Combine is a reliable application for preparing and managing metadata for DPLA harvests. Its current state of development is now complete, and the project has been sunsetted for now.
 
-During its initial design phase, the primary developer experimented with various features which have since been deprecated by fixes, updates, and improvements in other areas. The documentation for these features can now be found in the appendix. Combine’s functionality would be enhanced by bringing these features up to date, but we don’t consider them essential to Combine’s core functionality. Nonetheless, we hope future teams will consider revisiting these deprecated features someday and make them viable parts of Combine.
+During its initial design phase, the primary developer experimented with various features which have since been deprecated by fixes, updates, and improvements in other areas. The documentation for these features can now be found in the appendix. Combine would benefit from having these features brought up to date, but we don’t consider them essential to Combine’s core functionality. Nonetheless, we hope future teams will consider revisiting these deprecated features someday and make them viable parts of Combine.
 
 
 
